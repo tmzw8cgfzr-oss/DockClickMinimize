@@ -16,11 +16,11 @@ Dock Click Minimize 是一个极轻量的原生 macOS 小工具，为 Dock 增�
 
 ### 设置窗口
 
-![Dock Click Minimize 中文设置窗口](docs/images/settings-cn.png)
+![Dock Click Minimize 脱敏后的中文设置窗口](docs/images/settings-cn-sanitized.png)
 
 ### 菜单栏菜单
 
-![Dock Click Minimize 中文菜单栏菜单](docs/images/menu-cn.png)
+![Dock Click Minimize 脱敏后的中文菜单栏菜单](docs/images/menu-cn-sanitized.png)
 
 ## 下载
 
@@ -97,10 +97,10 @@ DockClickMinimize/
 ├── build.sh
 ├── Info.plist
 ├── docs/images/
-│   ├── settings-en.png
-│   ├── settings-cn.png
-│   ├── menu-en.png
-│   └── menu-cn.png
+│   ├── settings-en-sanitized.png
+│   ├── settings-cn-sanitized.png
+│   ├── menu-en-sanitized.png
+│   └── menu-cn-sanitized.png
 └── README_CN.md
 ```
 

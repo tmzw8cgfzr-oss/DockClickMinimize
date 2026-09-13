@@ -16,11 +16,11 @@ The screenshots below show the real native settings window and menu bar menu. Th
 
 ### Settings window
 
-![Dock Click Minimize settings window in English](docs/images/settings-en.png)
+![Dock Click Minimize sanitized settings window in English](docs/images/settings-en-sanitized.png)
 
 ### Menu bar menu
 
-![Dock Click Minimize menu bar menu in English](docs/images/menu-en.png)
+![Dock Click Minimize sanitized menu bar menu in English](docs/images/menu-en-sanitized.png)
 
 ## Download
 
@@ -93,10 +93,10 @@ DockClickMinimize/
 ├── build.sh
 ├── Info.plist
 ├── docs/images/
-│   ├── settings-en.png
-│   ├── settings-cn.png
-│   ├── menu-en.png
-│   └── menu-cn.png
+│   ├── settings-en-sanitized.png
+│   ├── settings-cn-sanitized.png
+│   ├── menu-en-sanitized.png
+│   └── menu-cn-sanitized.png
 └── README.md
 ```
 
