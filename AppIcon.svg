@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A3A"/>
+      <stop offset="0.52" stop-color="#4057C8"/>
+      <stop offset="1" stop-color="#2DB9B2"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.20"/>
+      <stop offset="0.46" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="32" y="32" width="960" height="960" rx="232" fill="url(#background)"/>
+  <path d="M264 32h496c128 0 232 104 232 232v86H32v-86C32 136 136 32 264 32z" fill="url(#shine)"/>
+  <rect x="54" y="54" width="916" height="916" rx="212" fill="none" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="6"/>
+
+  <!-- Window-minimize glyph adapted from Tabler Icons' open-source outline style. -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="220" y="224" width="584" height="488" rx="78"/>
+    <path d="M220 366h584"/>
+    <path d="M342 296h0M416 296h0M490 296h0" stroke-width="38"/>
+    <path d="M424 594h176"/>
+  </g>
+</svg>
